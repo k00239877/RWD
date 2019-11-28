@@ -1,0 +1,107 @@
+#banner {
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+#toolbar {
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+#main {
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888;
+}
+
+#iframe {
+		width: 80%;
+	 	margin: 20px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+#adds {
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+#footer {
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+#mainbody {
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+#links{
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+#signup{
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+#login{
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+.sortitout {
+	clear:both;
+	padding: 20px;
+	
+}
+.leftfloat{
+	float:left;
+}
+
+#loginaccount{
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
+
+#articalpage{
+		padding: 20px;
+}
+
+#profile{
+		width: 80%;
+	 	margin: 0px auto;
+	  	background-color: white;
+		padding: 0px;
+		box-shadow: 10px 5px 5px #888888; 
+}
